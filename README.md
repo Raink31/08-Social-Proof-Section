@@ -20,7 +20,7 @@ Your challenge is to build out this card component and get it looking as close t
 ## Links
 
 - Solution URL: --
-- Live Site URL: --
+- Live Site URL: https://raink31.github.io/08-Social-Proof-Section/
 
 
 ## Built with
