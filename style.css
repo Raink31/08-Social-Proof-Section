@@ -123,8 +123,10 @@ footer a{
 
     body{
         background-image: url("assets/images/bg-pattern-top-desktop.svg"), url("assets/images/bg-pattern-bottom-desktop.svg");
-        background-repeat: no-repeat;
-        background-position: top 0 left 0, bottom -30vh right 0;
+        background-repeat: no-repeat, no-repeat;
+        background-position: top -236px left -185px, bottom -300px right 10px;
+        background-attachment: fixed, fixed;
+        background-size: contain, contain;
     }
 
     .main{
